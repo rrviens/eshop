@@ -1,0 +1,64 @@
+body {
+  padding-top: 50px;;
+}
+
+#navbar {
+  background-color: white;
+}
+
+#text {
+	font-weight: bold;
+  color: #black;
+}
+
+#text:hover {
+  background-color: grey;
+}
+
+#logo {
+  color: #000000;
+}
+
+a#text.dropdown-toggle[aria-expanded="true"] {
+  background-color: red;
+}
+
+.dropdown-menu>li>a:hover {
+  background-color: #6bcdff;
+  color:white;
+}
+
+#images {
+  width: auto;
+  height: 250px;
+}
+
+#footer {
+  text-align: center;
+  color: #000000;
+  background-color: white;
+}
+
+
+#quantity {
+  margin-left: -15px;
+}
+
+#quantity-label {
+  margin-left: -15px;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+  margin: 100 auto; 
+}
+
+.col-md-3{
+  text-align: center;
+  font-weight: bold;
+}
+
+.priceB {
+  font-weight: bold;
+  font-size: 120%;
+  color: #000000;
+}
